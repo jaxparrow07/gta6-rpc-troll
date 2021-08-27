@@ -1,4 +1,4 @@
-# GTA6 Rich Presense Troll
+# GTA 6 Rich Presense Rickroll
 ```
 GTA 6 Rickroll Rich Presense for Discord with preconfigured Icons, Rickroll etc.,.
 ```
