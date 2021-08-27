@@ -4,6 +4,8 @@ GTA 6 Rickroll Rich Presense for Discord with preconfigured Icons, Rickroll etc.
 ```
 ![Output](output.png)
 
+**Disclaimer** : Made it for the sake of Rickrolling humanity<br>
+*Buttons lead to rickroll*
 
 **Customized version of** : https://github.com/HyperBeasty/discord-custom-rich-presence
 <br>Credits goes to him.<br><br>
