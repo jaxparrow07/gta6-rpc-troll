@@ -13,14 +13,14 @@ GTA 6 Rickroll Rich Presense for Discord with preconfigured Icons, Rickroll etc.
 ## How to use: 
 1. Install **Node.js** from https://nodejs.org/en/ if you don't have it installed already.
 2. Clone this repo or download this as a zip and open the folder.
-3. Open terminal in that folder/directory and bash:-
+3. Open terminal in that folder/directory and execute:-
 ```sh
 npm init -y
 ```
 ```sh
 npm i discord-rpc
 ```
-4. To run it bash:-
+4. To run it ( It may differ upon OS , See their documentation on how to use ) :-
 ```sh
 node index.js
 ```
